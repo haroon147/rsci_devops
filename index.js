@@ -7,3 +7,7 @@ function Hello() {
 function addRemote() {
   console.log("The remote origin is added");
 }
+
+function week3() {
+  consolel.log("Iam Working in week 03");
+}
