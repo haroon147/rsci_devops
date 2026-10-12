@@ -7,3 +7,7 @@ function Hello() {
 function addRemote() {
   console.log("The remote origin is added");
 }
+
+function Hello2() {
+  console.log("I am in Production Stage");
+}
